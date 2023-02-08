@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "j+c8Hss7At2Pb/lTmFIp9B5gC5iubOdT2T5+osbyB+0+GPl9YWHS7SaMT1B+E4PVfYJWTKj/DMqLKun8gQwL4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\janes\\OneDrive\\Documents\\WINTER\\QA\\Lab\\JaneSusan_Rajesh_8811392_Assignment2\\JaneSusan_Rajesh_8811392_Assignment2\\JaneSusan_Rajesh_8811392_Assignment2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\janes\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\janes\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\janes\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\janes\\.nuget\\packages\\nunit.console\\3.16.2\\nunit.console.3.16.2.nupkg.sha512",
+    "C:\\Users\\janes\\.nuget\\packages\\nunit.consolerunner\\3.16.2\\nunit.consolerunner.3.16.2.nupkg.sha512",
+    "C:\\Users\\janes\\.nuget\\packages\\nunit.extension.nunitprojectloader\\3.6.0\\nunit.extension.nunitprojectloader.3.6.0.nupkg.sha512",
+    "C:\\Users\\janes\\.nuget\\packages\\nunit.extension.nunitv2driver\\3.8.0\\nunit.extension.nunitv2driver.3.8.0.nupkg.sha512",
+    "C:\\Users\\janes\\.nuget\\packages\\nunit.extension.nunitv2resultwriter\\3.6.0\\nunit.extension.nunitv2resultwriter.3.6.0.nupkg.sha512",
+    "C:\\Users\\janes\\.nuget\\packages\\nunit.extension.teamcityeventlistener\\1.0.7\\nunit.extension.teamcityeventlistener.1.0.7.nupkg.sha512",
+    "C:\\Users\\janes\\.nuget\\packages\\nunit.extension.vsprojectloader\\3.8.0\\nunit.extension.vsprojectloader.3.8.0.nupkg.sha512",
+    "C:\\Users\\janes\\.nuget\\packages\\nunit3testadapter\\4.3.1\\nunit3testadapter.4.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
